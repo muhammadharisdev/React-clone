@@ -26,7 +26,7 @@ function Navigation() {
 
     </ul>
   </nav>
-  {/* 
+   
 <nav role="navigation">
 
 <div className={Style.Hamburger}>
@@ -48,7 +48,7 @@ function Navigation() {
           <img href="#" className={Style.icon}src="/images/tranlsator.png" alt="" />
             <img href="#" className={Style.icon}src="/images/github.png" alt="" />
             </div>
-</nav>  */}
+</nav>  
 </header>
 
 )
